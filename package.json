@@ -1,0 +1,22 @@
+{
+  "name": "daviduwayezuportfoliowebsite",
+  "version": "1.0.0",
+  "description": "This is my portfolio website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devu2/david-uwayezu-portfolio.git"
+  },
+  "author": "David Uwayezu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devu2/david-uwayezu-portfolio/issues"
+  },
+  "homepage": "https://github.com/devu2/david-uwayezu-portfolio#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
